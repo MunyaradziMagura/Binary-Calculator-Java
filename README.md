@@ -1,2 +1,2 @@
 # Binarycalculator
-Binary calculator
+Java binary calculator addition and subtraction
